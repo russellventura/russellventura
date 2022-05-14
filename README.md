@@ -9,4 +9,4 @@ russellventura/russellventura is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <h2>Languages and Tools:</H2>
-<img src="https://camo.githubusercontent.com/da839b79b282a7658a172f07e13496fb18bcf9fa624d061def0e80f47a68ff1d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742e706e67"
+<img src="https://www.kindpng.com/picc/m/171-1718046_javascript-programming-language-logo-hd-png-download.png" alt="JavaScript Logo" width="50" height="50">
