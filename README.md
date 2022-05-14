@@ -2,9 +2,9 @@
 - I’m interested in all things technology related.
 - In April 2022 I enrolled in the School of Code Boot Camp as a full stack developer student. 
 - I can be reached via email @ russell_ventura@outlook.com 
-- You can visit my website <a href="https://russellventura.co.uk">here</a>
-- You can view my website designs portfolio <a href="https://rvdms-pf.demonstration.website">here</a>
-- You can view my 80'2 Computer Systems Retro Room project <a href="https://retro.russellventura.co.uk/">here</a>
+- You can visit my <strong>website</strong> <a href="https://russellventura.co.uk">here</a>
+- You can view my website designs <strong>portfolio</strong> <a href="https://rvdms-pf.demonstration.website">here</a>
+- You can view my 80's Computer Systems Retro Room project <a href="https://retro.russellventura.co.uk/">here</a>
 
 <!---
 russellventura/russellventura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
