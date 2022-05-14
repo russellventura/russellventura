@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
   
   <a href="https://www.wix.com/"> <img alt="Wix" src="https://russellventura.co.uk/wp-content/uploads/2017/03/wix-icon.png" width="50" height="50">
   <a href="https://www.wordpress.com/"> <img alt="WordPress" src="https://russellventura.co.uk/wp-content/uploads/2017/03/wordpress.png" width="50" height="50">
+  <a href="https://www.adobe.com/uk/products/photoshop.html"> <img alt="Photoshop" src="https://russellventura.co.uk/wp-content/uploads/2017/03/ps.jpg" width="50" height="50">
   
 </div>
 <h2>Connect with Me:</H2>
