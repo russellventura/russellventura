@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <h2>Connect with Me</H2>
 <div>
-  | <a href="https://www.facebook.com/russellventura2013">Facebook</a>
+  <a href="https://www.facebook.com/russellventura2013">Facebook</a>
   | <a href="https://twitter.com/russ_ventura">Twitter</a>
   | <a href="https://www.linkedin.com/in/russellventura">LinkedIn</a>
 </div>
