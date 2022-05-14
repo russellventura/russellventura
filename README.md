@@ -16,7 +16,7 @@
 russellventura/russellventura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2>Tools and Languages:</H2>
+<h3>Tools and Languages:</h3>
 <div>
   
   <a href="https://www.wix.com/"> <img alt="Wix" src="https://russellventura.co.uk/wp-content/uploads/2017/03/wix-icon.png" width="50" height="50"></a>
@@ -32,6 +32,6 @@ You can click the Preview link to take a look at your changes.
   
 </div>
     
-<h2>Connect with Me:</H2>
+<h3>Connect with Me:</h3>
 <div>
   <a href="https://www.facebook.com/russellventura2013"> <img alt="Facebook" src="https://russellventura.co.uk/wp-content/uploads/2017/03/facebook.png" width="20" height="20"> <a href="https://twitter.com/russ_ventura"> <img alt="Twitter" src="https://russellventura.co.uk/wp-content/uploads/2017/03/twitter.png" width="21" height="21"> <a href="https://www.linkedin.com/in/russellventura"> <img alt="LinkedIn" src="https://russellventura.co.uk/wp-content/uploads/2017/03/linkedin.png" width="20" height="20"></div>
