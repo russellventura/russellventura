@@ -1,5 +1,7 @@
 - Hi, I’m Russell Ventura
 - I’m interested in all things technology related.
+- I am a <strong>smart home</strong> enthusiast.
+- My current smart home project is <strong>energy monitoring</strong>.
 - In April 2022 I enrolled in the School of Code Boot Camp as a full stack developer student. 
 - I can be reached via email @ russell_ventura@outlook.com 
 - You can visit my <strong>website</strong> <a href="https://russellventura.co.uk">here</a>
