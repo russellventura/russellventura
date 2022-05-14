@@ -1,4 +1,4 @@
-<a href="https://www.wix.com/"> <img alt="Wix" src="https://russellventura.co.uk/wp-content/uploads/2017/03/wix-icon.png" width="50" height="50"></a>
+<a href="#"> <img alt="Russell Ventura" src="https://russellventura.co.uk/wp-content/uploads/2016/05/cropped-russ-1.jpg" width="150" height="150"></a>
 
 
 - Hi, I’m Russell Ventura
