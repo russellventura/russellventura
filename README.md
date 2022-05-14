@@ -1,4 +1,4 @@
-- Hi, I’m @russellventura
+- Hi, I’m Russell Ventura
 - I’m interested in all things technology related.
 - In April 2022 I enrolled in the School of Code Boot Camp as a full stack developer student. 
 - I can be reached via email @ russell_ventura@outlook.com 
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   
   <a href="https://www.wix.com/"> <img alt="Wix" src="https://russellventura.co.uk/wp-content/uploads/2017/03/wix-icon.png" width="50" height="50">
-  <a href="https://www.wix.com/"> <img alt="Wix" src="https://russellventura.co.uk/wp-content/uploads/2017/03/wix-icon.png" width="50" height="50">
+  <a href="https://www.wordpress.com/"> <img alt="WordPress" src="https://russellventura.co.uk/wp-content/uploads/2017/03/wordpress.png" width="50" height="50">
   
 </div>
 <h2>Connect with Me:</H2>
