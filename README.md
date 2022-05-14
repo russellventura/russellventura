@@ -3,8 +3,11 @@
 <h1>Hello, I'm Russell Ventura, and welcome to my GitHub Profile</h1>
 <h3>A few things about me...</h3>
 
+
+https://smarthome.russellventura.co.uk/
+
 - I’m interested in all things technology related.
-- I am a <strong>smart home</strong> enthusiast.
+- I am a <a href="https://smarthome.russellventura.co.uk/"><strong>smart home</strong></a> enthusiast.
 - My current smart home project is <strong>energy monitoring</strong>.
 - In April 2022 I enrolled in the <a href="https://retro.russellventura.co.uk/"><strong>School of Code Boot Camp</strong></a> as a full stack developer student.
 - I can be reached via email @ russell_ventura@outlook.com 
