@@ -1,4 +1,9 @@
-<a href="#"> <img alt="Russell Ventura" src="https://russellventura.co.uk/wp-content/uploads/2016/05/cropped-russ-1.jpg" width="150" height="150"> border-radius: 25%</a>
+<style>
+  #corners {
+  border-radius: 24px;
+  }
+
+<a href="#"> <img id=corners alt="Russell Ventura" src="https://russellventura.co.uk/wp-content/uploads/2016/05/cropped-russ-1.jpg" width="150" height="150"></a>
 
 
 - Hi, I’m Russell Ventura
