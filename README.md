@@ -21,10 +21,11 @@ You can click the Preview link to take a look at your changes.
   <a href="https://en.wikipedia.org/wiki/CSS"> <img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" width="50" height="50">
   <a href="https://en.wikipedia.org/wiki/JavaScript"> <img alt="JAVASCRIPT" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" width="50" height="50">
     
-    <a href="https://www.adobe.com/uk/products/photoshop.html"> <img alt="Photoshop" src="https://russellventura.co.uk/wp-content/uploads/2017/03/ps.jpg" width="50" height="50">
+  <a href="https://www.adobe.com/uk/products/photoshop.html"> <img alt="Photoshop" src="https://russellventura.co.uk/wp-content/uploads/2017/03/ps.jpg" width="50" height="50">
   <a href="https://www.adobe.com/uk/products/illustrator.html"> <img alt="Illustrator" src="https://russellventura.co.uk/wp-content/uploads/2017/03/ai.jpg" width="50" height="50">
   
 </div>
+    
 <h2>Connect with Me:</H2>
 <div>
   <a href="https://www.facebook.com/russellventura2013"> <img alt="Facebook" src="https://russellventura.co.uk/wp-content/uploads/2017/03/facebook.png" width="20" height="20"> <a href="https://twitter.com/russ_ventura"> <img alt="Twitter" src="https://russellventura.co.uk/wp-content/uploads/2017/03/twitter.png" width="21" height="21"> <a href="https://www.linkedin.com/in/russellventura"> <img alt="LinkedIn" src="https://russellventura.co.uk/wp-content/uploads/2017/03/linkedin.png" width="20" height="20"></div>
