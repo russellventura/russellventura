@@ -12,6 +12,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <h2>Languages and Tools:</H2>
 <div>
+  
+  <a href="https://www.wix.com/"> <img alt="Wix" src="https://russellventura.co.uk/wp-content/uploads/2017/03/wix-icon.png" width=50" height="50">
+  
   <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_64.png" alt="JavaScript Logo" width="40" height="40">
   <img src="https://www.kindpng.com/picc/m/171-1718046_javascript-programming-language-logo-hd-png-download.png" alt="JavaScript Logo" width="50" height="50">
   <img src="https://russellventura.co.uk/wp-content/uploads/2017/03/wordpress.png" alt="WordPRess Logo" width="50" height="50">
