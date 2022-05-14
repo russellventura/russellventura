@@ -1,7 +1,7 @@
 <a href="#"> <img alt="Russell Ventura" src="https://russellventura.co.uk/wp-content/uploads/2022/05/RussellVentura.png" width="150" height="150"></a>
 
 <h1>Hello, I'm Russell Ventura, and welcome to my GitHub Profile</h1>
-<h2>A few things about me...</h2>
+<h3>A few things about me...</h3>
 
 - I’m interested in all things technology related.
 - I am a <strong>smart home</strong> enthusiast.
@@ -16,7 +16,7 @@
 russellventura/russellventura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h3>Tools and Languages:</h3>
+<h2>Tools and Languages:</h2>
 <div>
   
   <a href="https://www.wix.com/"> <img alt="Wix" src="https://russellventura.co.uk/wp-content/uploads/2017/03/wix-icon.png" width="50" height="50"></a>
@@ -32,6 +32,6 @@ You can click the Preview link to take a look at your changes.
   
 </div>
     
-<h3>Connect with Me:</h3>
+<h2>Connect with Me:</h2>
 <div>
   <a href="https://www.facebook.com/russellventura2013"> <img alt="Facebook" src="https://russellventura.co.uk/wp-content/uploads/2017/03/facebook.png" width="20" height="20"> <a href="https://twitter.com/russ_ventura"> <img alt="Twitter" src="https://russellventura.co.uk/wp-content/uploads/2017/03/twitter.png" width="21" height="21"> <a href="https://www.linkedin.com/in/russellventura"> <img alt="LinkedIn" src="https://russellventura.co.uk/wp-content/uploads/2017/03/linkedin.png" width="20" height="20"></div>
