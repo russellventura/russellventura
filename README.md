@@ -1,8 +1,8 @@
 <a href="#"> <img alt="Russell Ventura" src="https://russellventura.co.uk/wp-content/uploads/2022/05/RussellVentura.png" width="150" height="150"></a>
 
-<h1>Hello, I'm Russell, and welcome to my GitHub Profile</h1>
+<h1>Hello, I'm Russell Ventura, and welcome to my GitHub Profile</h1>
+<h2>A few things about me...</h2>
 
-- Hi, I’m Russell Ventura
 - I’m interested in all things technology related.
 - I am a <strong>smart home</strong> enthusiast.
 - My current smart home project is <strong>energy monitoring</strong>.
