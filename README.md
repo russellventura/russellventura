@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @russellventura
-- 👀 I’m interested in all things technology related. 
-- 🌱 I’m currently learning how to become a full stack developer.
-- 💞️ I’m looking to collaborate on learning how to become a developer
-- 📫 I can be reached via email @ russell_ventura@outlook.com 
+- Hi, I’m @russellventura
+- I’m interested in all things technology related. 
+- I’m currently transitioning to a full stack developer.
+- I’m interested in collaborating on my developer journey.
+- I April 2022 I enrolled in the School of Code Boot Camp as a full stack developer student. 
+- I can be reached via email @ russell_ventura@outlook.com 
 - You can view my website @ https://russellventura.co.uk 
 
 <!---
