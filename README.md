@@ -19,6 +19,14 @@ You can click the Preview link to take a look at your changes.
 </div>
 <h2>Connect with Me</H2>
 <div>
+  <a href="https://www.facebook.com/russellventura2013"> <img alt="Facebook" src="https://russellventura.co.uk/wp-content/uploads/2017/03/facebook.png" width="50" height="50">
+  
+  <a href="https://twitter.com/russ_ventura"> <img alt="Twitter" src="https://russellventura.co.uk/wp-content/uploads/2017/03/twitter.png" width="50" height="50">
+    
+  <a href="https://www.linkedin.com/in/russellventura"> <img alt="LinkedIn" src="https://russellventura.co.uk/wp-content/uploads/2017/03/linkedin.png" width="50" height="50">
+  
+  
+  
   <a href="https://www.facebook.com/russellventura2013">Facebook</a>
   | <a href="https://twitter.com/russ_ventura">Twitter</a>
   | <a href="https://www.linkedin.com/in/russellventura">LinkedIn</a>
