@@ -1,3 +1,6 @@
+<a href="https://www.wix.com/"> <img alt="Wix" src="https://russellventura.co.uk/wp-content/uploads/2017/03/wix-icon.png" width="50" height="50">
+
+
 - Hi, I’m Russell Ventura
 - I’m interested in all things technology related.
 - I am a <strong>smart home</strong> enthusiast.
