@@ -2,7 +2,9 @@
 - I’m interested in all things technology related.
 - In April 2022 I enrolled in the School of Code Boot Camp as a full stack developer student. 
 - I can be reached via email @ russell_ventura@outlook.com 
-- You can view my website @ https://russellventura.co.uk 
+- You can view my website here: https://russellventura.co.uk 
+- My web design portfolio can be viewed here: https://rvdms-pf.demonstration.website
+- You can visit my website design portfolio <a href="https://rvdms-pf.demonstration.website">here</a>
 
 <!---
 russellventura/russellventura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
