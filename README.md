@@ -17,13 +17,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.wix.com/"> <img alt="Wix" src="https://russellventura.co.uk/wp-content/uploads/2017/03/wix-icon.png" width="50" height="50">
   
 </div>
-<h2>Connect with Me</H2>
+<h2>Connect with Me:</H2>
 <div>
   <a href="https://www.facebook.com/russellventura2013"> <img alt="Facebook" src="https://russellventura.co.uk/wp-content/uploads/2017/03/facebook.png" width="20" height="20"> <a href="https://twitter.com/russ_ventura"> <img alt="Twitter" src="https://russellventura.co.uk/wp-content/uploads/2017/03/twitter.png" width="20" height="20"> <a href="https://www.linkedin.com/in/russellventura"> <img alt="LinkedIn" src="https://russellventura.co.uk/wp-content/uploads/2017/03/linkedin.png" width="20" height="20">
-  
-  
-  
-  <a href="https://www.facebook.com/russellventura2013">Facebook</a>
-  | <a href="https://twitter.com/russ_ventura">Twitter</a>
-  | <a href="https://www.linkedin.com/in/russellventura">LinkedIn</a>
 </div>
