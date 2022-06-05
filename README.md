@@ -11,7 +11,7 @@
 - You can visit my <strong>website</strong> <a href="https://russellventura.co.uk">here</a>
 - You can view my website designs <strong>portfolio</strong> <a href="https://rvdms-pf.demonstration.website">here</a>
 - You can view my 80's Computer Systems Retro Room project <a href="https://retro.russellventura.co.uk/">here</a>
-- You can view my <strong>projects</strong> <a href="https://russellventura.co.uk/projects/">here</a>
+- You can view my <strong>projects</strong> <a href="https://russellventura.co.uk/js-projects/">here</a>
 
 <!---
 russellventura/russellventura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
