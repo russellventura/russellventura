@@ -30,6 +30,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://en.wikipedia.org/wiki/HTML5"> <img alt="HTML 5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" width="50" height="50"></a>
   <a href="https://en.wikipedia.org/wiki/CSS"> <img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" width="50" height="50"></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript"> <img alt="JAVASCRIPT" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" width="50" height="50"></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript"> <img alt="REACT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" width="55" height="50"></a>
   
 </div>
     
