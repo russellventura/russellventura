@@ -1,5 +1,3 @@
-<a href="#"> <img alt="Russell Ventura" src="https://russellventura.co.uk/wp-content/uploads/2022/05/RussellVentura.png" width="150" height="150"></a>
-
 <h1>Hello, I'm Russell Ventura, and welcome to my GitHub Profile</h1>
 <h3>A few things about me...</h3>
 
