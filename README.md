@@ -39,14 +39,19 @@ You can click the Preview link to take a look at your changes.
 <h2>Other Certifications:</h2>
 <div>
     <div> 
-    <a href="https://en.wikipedia.org/wiki/CompTIA">Security +</a></div>
+    <a href="https://en.wikipedia.org/wiki/CompTIA">CompTia Security + Certified</a></div>
   
-  <div> 
-    <a href="#">MCSE</a>
-      <a href="#">MCPS</a>
-      <a href="#">MCPSI</a>
-    <a href="#">MCNPS</a>
-  
-  
+    <div> 
+        <a href="#">MCSE</a>
+     </div>
+     <div>
+        <a href="#">MCPS</a>
+     </div>
+     <div>
+        <a href="#">MCPSI</a>
+     </div>
+     <div>
+        <a href="#">MCNPS</a>
+     </div>  
   </div>
  
