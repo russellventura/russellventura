@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 <h2>Other Certifications:</h2>
 <div>
     <div> 
-    <a href="https://en.wikipedia.org/wiki/CompTIA"> <img alt="CompTIA" src="https://russellventura.co.uk/wp-content/uploads/2017/08/comptia-certified-logo.png" width="220" height="80">Security +</a></div>
+    <a href="https://en.wikipedia.org/wiki/CompTIA"> <img alt="CompTIA">Security +</a></div>
   
   <div> 
     <a href="#">MCSE</a>
