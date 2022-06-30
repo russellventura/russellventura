@@ -36,22 +36,5 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.facebook.com/russellventura2013"> <img alt="Facebook" src="https://russellventura.co.uk/wp-content/uploads/2017/03/facebook.png" width="20" height="20"> <a href="https://twitter.com/russ_ventura"> <img alt="Twitter" src="https://russellventura.co.uk/wp-content/uploads/2017/03/twitter.png" width="21" height="21"> <a href="https://www.linkedin.com/in/russellventura"> <img alt="LinkedIn" src="https://russellventura.co.uk/wp-content/uploads/2017/03/linkedin.png" width="20" height="20"></div>
     </div>
     
-<h2>Other Certifications:</h2>
-<div>
-    <div> 
-    <a href="https://en.wikipedia.org/wiki/CompTIA">CompTia Security + Certified</a></div>
-  
-    <div> 
-        <a href="#">MCSE</a>
-     
-     
-        <a href="#">MCPS</a>
-     
-     
-        <a href="#">MCPSI</a>
-     
-     
-        <a href="#">MCNPS</a>
-     
-  </div>
+
  
