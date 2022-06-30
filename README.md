@@ -6,7 +6,6 @@
 - I’m interested in all things technology related.
 - I am a <a href="https://smarthome.russellventura.co.uk/"><strong>smart home</strong></a> enthusiast.
 - My current smart home project is <strong>energy monitoring</strong>.
-- In April 2022 I enrolled in the <a href="https://www.schoolofcode.co.uk/"><strong>School of Code Boot Camp</strong></a> as a full stack developer student.
 - I can be reached via email @ russell_ventura@outlook.com 
 - You can visit my <strong>website</strong> <a href="https://russellventura.co.uk">here</a>
 - You can view my website designs <strong>portfolio</strong> <a href="https://rvdms-pf.demonstration.website">here</a>
