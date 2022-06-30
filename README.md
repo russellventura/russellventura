@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://en.wikipedia.org/wiki/CompTIA"> <img alt="CompTIA" src="https://russellventura.co.uk/wp-content/uploads/2017/08/comptia-certified-logo.png" width="220" height="80">Security +</a></div>
   
   <div> 
-    <a href="#"> <img alt="MCSE" src="https://russellventura.co.uk/wp-content/uploads/2018/03/microsoft-80660_960_720.png" width="25" height="25">MCSE</a>
+    <a href="#"> <img alt="MCSE" src="#" width="25" height="25">MCSE</a>
       <a href="#"> <img alt="MCSE" src="https://russellventura.co.uk/wp-content/uploads/2018/03/microsoft-80660_960_720.png" width="25" height="25">MCPS</a>
       <a href="#"> <img alt="MCSE" src="https://russellventura.co.uk/wp-content/uploads/2018/03/microsoft-80660_960_720.png" width="25" height="25">MCPSI</a>
     <a href="#"> <img alt="MCSE" src="https://russellventura.co.uk/wp-content/uploads/2018/03/microsoft-80660_960_720.png" width="25" height="25">MCNPS</a>
