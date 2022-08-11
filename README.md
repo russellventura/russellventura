@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <h2>Tools and Languages:</h2>
 <div>
   
-### Frontend  
+#### Frontend  
 <div align="left">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 </td><td valign="top" width="50%">
   
   
-### Backend  
+#### Backend  
 <div align="left">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -74,7 +74,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## Connect   
+### Connect   
 <div align="left">
 <a href="https://www.facebook.com/russellventura2013" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
