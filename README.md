@@ -1,4 +1,4 @@
-<h1>Hello, I'm Russell Ventura, and welcome to my GitHub Profile</h1>
+# Hello, I'm Russell Ventura, and welcome to my GitHub Profile
 <h3>A few things about me...</h3>
 
 - I’m interested in all things technology related.
@@ -9,12 +9,7 @@
 - You can view my 80's Computer Systems Retro Room project <a href="https://retro.russellventura.co.uk/">here</a>
 - You can view my <strong>projects</strong> <a href="https://russellventura.co.uk/js-projects/">here</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=russellventura&label=Profile%20views&color=0e75b6&style=flat" alt="russellventura" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=russellventura" alt="russellventura" /></a> </p>
-
 <h2>Tools and Languages:</h2>
-<div>
   
 #### Frontend  
 <div align="left">  
@@ -33,12 +28,8 @@
     <a href="https://www.wix.com/"> <img alt="Wix" src="https://russellventura.co.uk/wp-content/uploads/2017/03/wix-icon.png" width="50" height="50"></a>
   <a href="https://www.wordpress.com/"> <img alt="WordPress" src="https://russellventura.co.uk/wp-content/uploads/2017/03/wordpress.png" width="50" height="50"></a>
   <a href="https://www.elegantthemes.com/"> <img alt="Divi" src="https://russellventura.co.uk/wp-content/uploads/2019/12/Divi4.png" width="50" height="50"></a>  
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
-  
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>   
 </div>
-
-
-  
   
 #### Backend  
 <div align="left">  
@@ -53,20 +44,17 @@
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
     <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>    
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
+</div>
  
 
 ## Github Stats  
-<div>
-  <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=russellventura&show_icons=true&count_private=true&hide_border=true" align="left" />
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=russellventura&hide_border=true&layout=compact" align="left" />
-</div>  
-  </div>
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=russellventura&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=russellventura&hide_border=true&layout=compact" align="center" />
+</div>
 
-
-
-
-### Connect   
+## Connect   
 <div>
 <a href="https://www.facebook.com/russellventura2013" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
@@ -80,7 +68,13 @@
 <a href="https://github.com/russellventura" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-  
-  
+</div>
+
+## Trophies 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=russellventura" alt="russellventura" /></a> </p> 
+ 
+<div align-left>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=russellventura&label=Profile%20views&color=0e75b6&style=flat" alt="russellventura" /> </p>
+</div>
 
  
