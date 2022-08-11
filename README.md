@@ -13,14 +13,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=russellventura" alt="russellventura" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/russ_ventura" target="blank"><img src="https://img.shields.io/twitter/follow/russ_ventura?logo=twitter&style=for-the-badge" alt="russ_ventura" /></a> </p>
-
-
-
-<!---
-russellventura/russellventura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h2>Tools and Languages:</h2>
 <div>
   
@@ -45,7 +37,7 @@ You can click the Preview link to take a look at your changes.
   
 </div>
 
-</td><td valign="top" width="50%">
+
   
   
 #### Backend  
@@ -75,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Connect   
-<div align="left">
+<div>
 <a href="https://www.facebook.com/russellventura2013" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
