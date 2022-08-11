@@ -1,4 +1,5 @@
-# Hello, I'm Russell Ventura, and welcome to my GitHub Profile
+![Header](https://russellventura.co.uk/wp-content/uploads/2022/08/RV-GitHub-Profile.jpg)
+
 <h3>A few things about me...</h3>
 
 - I’m interested in all things technology related.
