@@ -50,7 +50,7 @@
  
 
 ## Github Stats  
-<div align="left" width="50%">
+<div align="left" width="33%">
 <img src="https://github-readme-stats.vercel.app/api?username=russellventura&show_icons=true&count_private=true&hide_border=true" align="center" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=russellventura&hide_border=true&layout=compact" align="center" />
 </div>
