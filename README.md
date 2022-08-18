@@ -1,6 +1,6 @@
 ![Header](https://russellventura.co.uk/wp-content/uploads/2022/08/RV-GitHub-Profile.jpg)
 
-<h3>A few things about me...</h3>
+<h3>A few things about me</h3>
 
 - I’m interested in all things technology related.
 - I am a <a href="https://smarthome.russellventura.co.uk/"><strong>smart home</strong></a> enthusiast.
