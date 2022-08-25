@@ -36,7 +36,7 @@
     <a href="https://www.wix.com/"> <img alt="Wix" src="https://russellventura.co.uk/wp-content/uploads/2017/03/wix-icon.png" width="50" height="50"></a>
   <a href="https://www.wordpress.com/"> <img alt="WordPress" src="https://russellventura.co.uk/wp-content/uploads/2017/03/wordpress.png" width="50" height="50"></a>
   <a href="https://www.elegantthemes.com/"> <img alt="Divi" src="https://russellventura.co.uk/wp-content/uploads/2019/12/Divi4.png" width="50" height="50"></a>  
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>   
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="50" height="50"/> </a>   
 </div>
   
 #### Backend  
