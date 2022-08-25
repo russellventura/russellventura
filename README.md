@@ -7,7 +7,6 @@
 - I am a free thinker and a good problem solver
 - I have little tolerance for fake people
 - I work best alone, but have made positive contributions to team environments
-- I have worked with the UK Police forces designing and developing a forensic CCTV appliance 
 - I invest in myself to better my knowledge and skills
 - I’m interested in all things technology related.
 - I am a <a href="https://smarthome.russellventura.co.uk/"><strong>smart home</strong></a> enthusiast.
