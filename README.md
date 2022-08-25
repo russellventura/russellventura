@@ -4,7 +4,7 @@
 
 - I’m interested in all things technology related.
 - I am a <a href="https://smarthome.russellventura.co.uk/"><strong>smart home</strong></a> enthusiast.
-- My current smart home project is <strong>energy monitoring</strong>.
+- My current smart home project is <strong>energy monitoring & green energy</strong>.
 - You can visit my <strong>website</strong> <a href="https://russellventura.co.uk">here</a>
 - You can view my website designs <strong>portfolio</strong> <a href="https://rvdms-pf.demonstration.website">here</a>
 - You can view my 80's Computer Systems Retro Room project <a href="https://retro.russellventura.co.uk/">here</a>
