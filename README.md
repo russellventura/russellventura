@@ -2,10 +2,13 @@
 
 <h3>A few things about me...</h3>
 
-- I did not go to college, I did not go to university, I worked hard all my life
+- I did not go to college, I did not go to university, Instead - I worked hard all my life
+- I am reliable, dependable, resourceful, and hard working
 - I am a free thinker and a good problem solver
-- I have little tollerance for fake people
+- I have little tolerance for fake people
 - I work best alone, but have made positive contributions to team environments
+- I have worked with the UK Police forces designing and developing a forensic CCTV appliance 
+- I invest in myself to better my knowledge and skills
 - I’m interested in all things technology related.
 - I am a <a href="https://smarthome.russellventura.co.uk/"><strong>smart home</strong></a> enthusiast.
 - My current smart home project is <strong>energy monitoring & green energy</strong>.
