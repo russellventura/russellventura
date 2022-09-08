@@ -5,7 +5,7 @@
 - I am reliable, dependable, resourceful, and hard working.
 - I am a free thinker and a good problem solver.
 - I always notice the little things - I pay attention to details.
-- I work well individually and also a a member of a team.
+- I work well individually and also as a member of a team.
 - I have always invested in myself to better my knowledge and skills.
 - I’m interested in all things technology related.
 - I am a <a href="https://smarthome.russellventura.co.uk/"><strong>smart home</strong></a> enthusiast.
