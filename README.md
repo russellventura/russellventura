@@ -1,4 +1,4 @@
-![Header](https://russellventura.co.uk/wp-content/uploads/2022/08/RV-GitHub-Profile.jpg)
+![Header](https://russellventura.co.uk/wp-content/uploads/2022/09/RussellVentura-LinkedInBanner.png)
 
 <h3>A few things about me...</h3>
 
