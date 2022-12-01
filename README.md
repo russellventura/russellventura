@@ -14,6 +14,7 @@
 - You can view my website designs <strong>portfolio</strong> <a href="https://rvdms-pf.demonstration.website">here</a>
 - You can view my 80's Computer Systems Retro Room project <a href="https://retro.russellventura.co.uk/">here</a>
 - You can view my <strong>projects</strong> <a href="https://russellventura.co.uk/js-projects/">here</a>
+- You can view my <strong>Home Assistant</strong> dashboards <a href="https://github.com/russellventura/HomeAssistant">here</a>
 
 <h2>Tools and Languages:</h2>
   
